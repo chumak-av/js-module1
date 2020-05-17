@@ -1,0 +1,12 @@
+let five=5;
+let three=3;
+let a1=(five+three);
+let a2=(five-three);
+let a3=(five*three);
+let a4=(five/three);
+let a5=(three-five);
+console.log(a1);
+console.log(a2);
+console.log(a3);
+console.log(a4);
+console.log(a5);
